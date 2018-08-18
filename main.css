@@ -17,7 +17,7 @@ h1 {
   font-size: 45px;
   position: relative;
   top: 65px;
-  left: 50px;
+  margin-left: 50px;
 }
 #navbar {
    width: 100%;
@@ -59,7 +59,7 @@ h2 {
   color: #bdbdbd;
   position: relative;
   top: 300px;
-  left: 260px;
+  margin-left: 260px;
 }
 /* /Welcome */
 
