@@ -1,9 +1,10 @@
 /* Fonts */
 @import url("https://fonts.googleapis.com/css?family=Megrim");
-@import url("https://fonts.googleapis.com/css?family=Abel");
+/*@import url("https://fonts.googleapis.com/css?family=Abel");*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 /* Fonts */
 body {
-  font-family: Abel, sans-serif;
+  font-family: "Open Sans", sans-serif;
     font-size: 17px;
 }
 
@@ -111,7 +112,8 @@ hr {
     
 }
 .project-description {
-    font-size: 17px
+    font-size: 16px;
+    
 }
 .project-link {
     font-size: 20px;
