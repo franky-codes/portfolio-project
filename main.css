@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 /* Fonts */
 body {
-  font-family: "Open Sans", sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-size: 17px;
 }
 
@@ -55,13 +55,13 @@ h1 {
 }
 
 h2 {
-  font-family: Abel;
+  font-family: "Open Sans";
   font-style: italic;
   letter-spacing: 1.25px;
   color: #bdbdbd;
   position: relative;
   top: 75px;
-  margin-left: 250px;
+  margin-left: 219px;
 }
 /* /Welcome */
 
